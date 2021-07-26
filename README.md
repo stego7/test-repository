@@ -1,4 +1,2 @@
-# test-repository
-This is a test description
-
-This is another edit
+# My very first repo
+Hello everyone
